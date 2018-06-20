@@ -1,4 +1,4 @@
-class Appintment
+class Appointment
   
   @@all = []
   
