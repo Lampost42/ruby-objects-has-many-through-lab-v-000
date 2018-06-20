@@ -1,4 +1,4 @@
-class Docotr
+class Doctor
   
   @@all = []
   
